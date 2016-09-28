@@ -1,0 +1,582 @@
+[
+    {
+        "name": "Elise",
+        "quote": 'Only the spider is safe in her web.',
+        "image": ,
+    },
+    {
+        "name": "Fiora",
+        "quote": 'I long for a worthy opponent.',
+        "image": ,
+    },
+    {
+        "name": "Poppy",
+        "quote": 'Valoran will know harmony.',
+        "image": ,
+    },
+    {
+        "name": "Teemo",
+        "quote": 'Captain Teemo on duty!',
+        "image": ,
+    },
+    {
+        "name": "Irelia",
+        "quote": 'My blade is at your service.',
+        "image": ,
+    },
+    {
+        "name": "Skarner",
+        "quote": 'My stinger brings ugly death.',
+        "image": ,
+    },
+    {
+        "name": "Udyr",
+        "quote": 'Our rage is beyond your control.',
+        "image": ,
+    },
+    {
+        "name": "Olaf",
+        "quote": 'Leave nothing behind!',
+        "image": ,
+    },
+    {
+        "name": "Maokai",
+        "quote": 'I do your bidding... for now...',
+        "image": ,
+    },
+    {
+        "name": "Syndra",
+        "quote": 'So much untapped power!',
+        "image": ,
+    },
+    {
+        "name": "Leona",
+        "quote": 'The dawn has arrived.',
+        "image": ,
+    },
+    {
+        "name": "Evelynn",
+        "quote": 'The night is my veil.',
+        "image": ,
+    },
+    {
+        "name": "Thresh",
+        "quote": 'What delightful agony we shall inflict.',
+        "image": ,
+    },
+    {
+        "name": "Pantheon",
+        "quote": 'THEY ARE PRIVELEDGED TO DIE AT MY FEET!',
+        "image": ,
+    },
+    {
+        "name": "Urgot",
+        "quote": 'Eternal life... endless torture.',
+        "image": ,
+    },
+    {
+        "name": "Karthus",
+        "quote": 'Do you feel a chill?',
+        "image": ,
+    },
+    {
+        "name": "Akali",
+        "quote": 'As balance dictates.',
+        "image": ,
+    },
+    {
+        "name": "Ezreal",
+        "quote": 'Time for a true display of skill.',
+        "image": ,
+    },
+    {
+        "name": "Ziggs",
+        "quote": 'This\'ll be a blast!',
+        "image": ,
+    },
+    {
+        "name": "Kennen",
+        "quote": 'The eyes never lie.',
+        "image": ,
+    },
+    {
+        "name": "Nunu",
+        "quote": 'Here we go!',
+        "image": ,
+    },
+    {
+        "name": "Jax",
+        "quote": 'Let\'s do this!',
+        "image": ,
+    },
+    {
+        "name": "Graves",
+        "quote": 'Dead man walkin\'',
+        "image": ,
+    },
+    {
+        "name": "Ahri",
+        "quote": 'Don\'t you trust me?',
+        "image": ,
+    },
+    {
+        "name": "Malphite",
+        "quote": 'Rock Solid.',
+        "image": ,
+    },
+    {
+        "name": "Sona",
+        "quote": 'Only you can hear me summoner, what masterpiece shall we play today?',
+        "image": ,
+    },
+    {
+        "name": "Singed",
+        "quote": 'How about a drink?',
+        "image": ,
+    },
+    {
+        "name": "Darius",
+        "quote": 'They will regret opposing me.',
+        "image": ,
+    },
+    {
+        "name": "Renekton",
+        "quote": 'As I live, all will die!',
+        "image": ,
+    },
+    {
+        "name": "Janna",
+        "quote": 'The tempest is at your command.',
+        "image": ,
+    },
+    {
+        "name": "Miss Fortune",
+        "quote": 'Fortune doesn\'t favour fools!',
+        "image": ,
+    },
+    {
+        "name": "Aatrox",
+        "quote": 'This battle will be my masterpiece.',
+        "image": ,
+    },
+    {
+        "name": "Zilean",
+        "quote": 'I knew you would do that.',
+        "image": ,
+    },
+    {
+        "name": "Swain",
+        "quote": 'The early bird guts the worm.',
+        "image": ,
+    },
+    {
+        "name": "Jarvan IV",
+        "quote": 'By my will, this shall be finished.',
+        "image": ,
+    },
+    {
+        "name": "Rammus",
+        "quote": 'ok.',
+        "image": ,
+    },
+    {
+        "name": "Vayne",
+        "quote": 'Let us hunt those who have fallen to darkness.',
+        "image": ,
+    },
+    {
+        "name": "Cassiopeia",
+        "quote": 'Don\'t you find me... beautiful?',
+        "image": ,
+    },
+    {
+        "name": "Shaco",
+        "quote": 'How about a magic trick?',
+        "image": ,
+    },
+    {
+        "name": "Yorick",
+        "quote": 'Death is only the beginning.',
+        "image": ,
+    },
+    {
+        "name": "Rumble",
+        "quote": 'Let\'s get in the fight!',
+        "image": ,
+    },
+    {
+        "name": "Lissandra",
+        "quote": 'I will bury the world in ice.',
+        "image": ,
+    },
+    {
+        "name": "Vi",
+        "quote": 'Punch first. Ask questions while punching.',
+        "image": ,
+    },
+    {
+        "name": "Twisted Fate",
+        "quote": 'Lady Luck is smilin\'.',
+        "image": ,
+    },
+    {
+        "name": "Shyvana",
+        "quote": 'They are nothing before me.',
+        "image": ,
+    },
+    {
+        "name": "Zac",
+        "quote": 'I was made for this... Literally.',
+        "image": ,
+    },
+    {
+        "name": "Xerath",
+        "quote": 'I will be free.',
+        "image": ,
+    },
+    {
+        "name": "Hecarim",
+        "quote": 'Behold the might of the Shadow Isles.',
+        "image": ,
+    },
+    {
+        "name": "Taric",
+        "quote": 'More than just precious stones, I bring you an ancient power.',
+        "image": ,
+    },
+    {
+        "name": "Twitch",
+        "quote": 'Oh, what do you want?',
+        "image": ,
+    },
+    {
+        "name": "Xin Zhao",
+        "quote": 'To the arena!',
+        "image": ,
+    },
+    {
+        "name": "Morgana",
+        "quote": 'We\'ll bring them pain!',
+        "image": ,
+    },
+    {
+        "name": "Fizz",
+        "quote": 'Let me at \'em!',
+        "image": ,
+    },
+    {
+        "name": "Soraka",
+        "quote": 'Let me guide you.',
+        "image": ,
+    },
+    {
+        "name": "Lee Sin",
+        "quote": 'Your will, my hands.',
+        "image": ,
+    },
+    {
+        "name": "Ashe",
+        "quote": 'All the world on one arrow.',
+        "image": ,
+    },
+    {
+        "name": "Tryndamere",
+        "quote": 'This\'ll be a slaughter!',
+        "image": ,
+    },
+    {
+        "name": "Nasus",
+        "quote": 'The cycle of life and death continue, we will live, they will die.',
+        "image": ,
+    },
+    {
+        "name": "Jinx",
+        "quote": 'Rules are made to be broken... like buildings! Or people!',
+        "image": ,
+    },
+    {
+        "name": "Malzahar",
+        "quote": 'Oblivion awaits.',
+        "image": ,
+    },
+    {
+        "name": "Ryze",
+        "quote": 'Let\'s go, let\'s go!',
+        "image": ,
+    },
+    {
+        "name": "Mordekaiser",
+        "quote": 'I shall bring great suffering!',
+        "image": ,
+    },
+    {
+        "name": "Quinn",
+        "quote": 'Justice takes wing.',
+        "image": ,
+    },
+    {
+        "name": "Orianna",
+        "quote": 'We will kill your enemies. That will be fun.',
+        "image": ,
+    },
+    {
+        "name": "Sion",
+        "quote": 'I do it.',
+        "image": ,
+    },
+    {
+        "name": "Cho Gath",
+        "quote": 'You\'d wish the world you know to end! Yesssss',
+        "image": ,
+    },
+    {
+        "name": "Kassadin",
+        "quote": 'The balance of power must be preserved.',
+        "image": ,
+    },
+    {
+        "name": "Karma",
+        "quote": 'Always trust your spirit.',
+        "image": ,
+    },
+    {
+        "name": "Zed",
+        "quote": 'The unseen blade is the deadliest.',
+        "image": ,
+    },
+    {
+        "name": "Riven",
+        "quote": 'What is broken CAN be reforged!',
+        "image": ,
+    },
+    {
+        "name": "Katarina",
+        "quote": 'Violence solves everything!',
+        "image": ,
+    },
+    {
+        "name": "Nocturne",
+        "quote": 'Embrace the darkness!',
+        "image": ,
+    },
+    {
+        "name": "Varus",
+        "quote": 'The guilty shall know agony.',
+        "image": ,
+    },
+    {
+        "name": "Volibear",
+        "quote": 'Let the storm follow in my wake.',
+        "image": ,
+    },
+    {
+        "name": "Nami",
+        "quote": 'I decide what the tide will bring.',
+        "image": ,
+    },
+    {
+        "name": "Sivir",
+        "quote": 'To battle!',
+        "image": ,
+    },
+    {
+        "name": "Brand",
+        "quote": 'Ready to set the world on fire? Heheheh...',
+        "image": ,
+    },
+    {
+        "name": "Lucian",
+        "quote": 'Everybody dies. Some just need a little help.',
+        "image": ,
+    },
+    {
+        "name": "Blitzcrank",
+        "quote": 'Fired up and ready to serve.',
+        "image": ,
+    },
+    {
+        "name": "Warwick",
+        "quote": 'Let\'s make this fun.',
+        "image": ,
+    },
+    {
+        "name": "Gangplank",
+        "quote": 'Prepare to be boarded!',
+        "image": ,
+    },
+    {
+        "name": "Anivia",
+        "quote": 'On my wings.',
+        "image": ,
+    },
+    {
+        "name": "Diana",
+        "quote": 'A new moon is rising.',
+        "image": ,
+    },
+    {
+        "name": "Sejuani",
+        "quote": 'Trust nothing but your strength.',
+        "image": ,
+    },
+    {
+        "name": "Dr. Mundo",
+        "quote": 'Mundo!',
+        "image": ,
+    },
+    {
+        "name": "Vladimir",
+        "quote": 'The rivers will run red.',
+        "image": ,
+    },
+    {
+        "name": "Wukong",
+        "quote": 'I will be the best!',
+        "image": ,
+    },
+    {
+        "name": "Fiddlesticks",
+        "quote": 'Your bidding, master.',
+        "image": ,
+    },
+    {
+        "name": "Rengar",
+        "quote": 'Tonight we hunt!',
+        "image": ,
+    },
+    {
+        "name": "Viktor",
+        "quote": 'Join the glorious evolution.',
+        "image": ,
+    },
+    {
+        "name": "LeBlanc",
+        "quote": 'The Black Rose shall bloom once more!',
+        "image": ,
+    },
+    {
+        "name": "Gragas",
+        "quote": 'If you\'re buyin\', I\'m in!',
+        "image": ,
+    },
+    {
+        "name": "Zyra",
+        "quote": 'Feel the thorns\' embrace.',
+        "image": ,
+    },
+    {
+        "name": "Shen",
+        "quote": 'A demonstration of superior judgement.',
+        "image": ,
+    },
+    {
+        "name": "Annie",
+        "quote": 'You wanna play, too? It\'ll be fun.',
+        "image": ,
+    },
+    {
+        "name": "Trundle",
+        "quote": 'Time to troll!',
+        "image": ,
+    },
+    {
+        "name": "Draven",
+        "quote": 'Welcome to the League of Draven!',
+        "image": ,
+    },
+    {
+        "name": "Lulu",
+        "quote": 'Pleased to meet you!',
+        "image": ,
+    },
+    {
+        "name": "Kha\'Zix",
+        "quote": 'Change... is good.',
+        "image": ,
+    },
+    {
+        "name": "Nautilus",
+        "quote": 'Beware the depths.',
+        "image": ,
+    },
+    {
+        "name": "Amumu",
+        "quote": 'I thought you\'d never pick me.',
+        "image": ,
+    },
+    {
+        "name": "Kayle",
+        "quote": 'Into the fray!',
+        "image": ,
+    },
+    {
+        "name": "Alistar",
+        "quote": 'Nothing can hold me back!',
+        "image": ,
+    },
+    {
+        "name": "Jayce",
+        "quote": 'I fight for a brighter tomorrow!',
+        "image": ,
+    },
+    {
+        "name": "Veigar",
+        "quote": 'Know that if the tables were turned, I\'d show you no mercy.',
+        "image": ,
+    },
+    {
+        "name": "Kog\'Maw",
+        "quote": 'Time to feast!',
+        "image": ,
+    },
+    {
+        "name": "Tristana",
+        "quote": 'I wanna shoot something.',
+        "image": ,
+    },
+    {
+        "name": "Garen",
+        "quote": 'To the Fields of Justice!',
+        "image": ,
+    },
+    {
+        "name": "Talon",
+        "quote": 'Live and die by the blade.',
+        "image": ,
+    },
+    {
+        "name": "Master Yi",
+        "quote": 'My blade is yours.',
+        "image": ,
+    },
+    {
+        "name": "Corki",
+        "quote": 'I\'m up to snuff, and gots me an ace machine!',
+        "image": ,
+    },
+    {
+        "name": "Nidalee",
+        "quote": 'They will fear the wilds.',
+        "image": ,
+    },
+    {
+        "name": "Galio",
+        "quote": 'A guardian is always prepared.',
+        "image": ,
+    },
+    {
+        "name": "Caitlyn",
+        "quote": 'I\'m on the case.',
+        "image": ,
+    },
+    {
+        "name": "Lux",
+        "quote": 'Tactical decision, summoner!',
+        "image": ,
+    },
+    {
+        "name": "Heimerdinger",
+        "quote": 'Indeed, a wise choice.',
+        "image": ,
+    }
+]
